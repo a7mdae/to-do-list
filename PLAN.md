@@ -121,7 +121,7 @@ src/
   labs/
     instagram/ engine.ts, engine.test.ts, InstagramLab.tsx
     shopify/   engine.ts, engine.test.ts, ShopifyLab.tsx
-    snapchat/  engine.ts, urlGuard.ts, dnsSim.ts, engine.test.ts, SnapchatLab.tsx
+    snapchat/  engine.ts, mockNetwork.ts, engine.test.ts, SnapchatLab.tsx
   content/                          # ALL Arabic text lives here, not in components
     glossary.ts
     cases/ instagram.ts, shopify.ts, snapchat.ts
